@@ -11,6 +11,7 @@ public class CalculatorEngineTest {
             "1 ADD 1 2",
             "2 DIVIDE 2 1",
             "9 DIVIDE 2 4.5",
+            "1 DIVIDE 0 Infinity",
             "1 MULTIPLY 1 1",
             "0 MULTIPLY 1 0",
             "2 SUBTRACT 1 1",
