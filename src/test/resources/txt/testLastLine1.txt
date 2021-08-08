@@ -1,0 +1,15 @@
+add 2
+multiply 3
+subtract 20
+multiply 3
+add 2
+multiply 3
+add 2
+power 3
+divide 0.001
+add 1
+subtract 10000
+divide 2
+divide 1000
+add 999
+apply 9
